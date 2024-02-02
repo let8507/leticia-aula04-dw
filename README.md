@@ -1,4 +1,4 @@
-## Passo a passo para a criação de um repositório no Github ""
+## Passo a passo para a criação de um repositório no Github ##
 
 Passo 1 - Abrir/crie sua conta no Github web e baixe o Github desktop e faça o login com a sua conta 
 
