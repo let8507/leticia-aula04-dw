@@ -36,8 +36,16 @@
 
      Salve a ultima alteração do seu arquivo com o comando pull. Na mesma parte de repository que você clicou para executar o comando push e aperte no pull.
 
-## 11° Passo 10 
+## 11° Passo 
 
      No github desktop na parte de cima vá na aba Branch e crie uma nava Branch e nomeie ele. Branch é uma linha de desenvolvimento independente que permite que você trabalhe em um conjunto de alterações separado do código principal (normalmente chamado de "branch principal" ou "branch mestre", que muitas vezes é chamado de "main" ou "master").
+
+## 12° Passo
+
+    Para fazer a mesclagem do main e da branch vá na aba branch e vá na parte merge into current branch selecione qual você vai mesclar e mescle.
+
+## 13° Passo 
+
+    Para deletar vá na aba branch e clique em delete.
 
 ##  É isso bjs 
